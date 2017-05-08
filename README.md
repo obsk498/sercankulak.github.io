@@ -1,4 +1,6 @@
 # Blog em construção
+![](https://github.com/rubgithub/minimal-blog/blob/master/construcao.png)
+
 [Blog teste construido](https://rubgithub.github.io/minimal-blog/)
 
 # Ótimo Curso gratis Jekyll:
