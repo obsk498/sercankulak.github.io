@@ -4,4 +4,4 @@ title: iletişim
 permalink: /munasebet/
 ---
 
-sercankulak@[rusbirepostasunucusu].com
+sercankulak@[rusepostasunucusu].com
