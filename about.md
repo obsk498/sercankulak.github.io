@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kim?
+title: Kim
 permalink: /kim/
 ---
 
