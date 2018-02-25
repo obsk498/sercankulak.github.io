@@ -16,6 +16,7 @@ Jekyll also offers powerful support for code snippets:
 
 [link](http://sercankulak.com)
 
+![resim](../eg/freemind-intel.png)!
 # Deneme
 
 ~~~~~~~~~~~~~
