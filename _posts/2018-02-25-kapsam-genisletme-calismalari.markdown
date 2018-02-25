@@ -489,16 +489,14 @@ Alan adlarının araştırılmasında kullanılan teknikleri dilim döndüğünc
 Sevgiler.
 
 ### Yardımcı Çevrimiçi Uygulamalar:
-~~~
-https://punkspider.org 
-https://ivre.rocks 
-https://www.zoomeye.org 
-https://www.censys.io 
-https://www.shodan.io 
-http://www.dogpile.com/
-https://www.virustotal.com/#/home/url
-https://github.com/k4ch0w/pwnback
-~~~
+https://punkspider.org<br>
+https://ivre.rocks<br>
+https://www.zoomeye.org<br>
+https://www.censys.io<br>
+https://www.shodan.io<br>
+http://www.dogpile.com/<br>
+https://www.virustotal.com/#/home/url<br>
+https://github.com/k4ch0w/pwnback<br>
 
 ### Kaynaklar:
 https://digi.ninja/projects/zonetransferme.php<br>
