@@ -320,7 +320,7 @@ Zafiyeti bulan kişi bulguda bahsi geçen [addlive.io](http://addlive.io) adınd
 
 http://www.viewdns.info/iphistory/?domain=addlive.io
 
-<center>![addliveio-IP-gecmisi](../eg/IP-gecmisi-addlive.png)</center>
+![addliveio-IP-gecmisi](../eg/IP-gecmisi-addlive.png)
 
 addlive.io adresinin geçmişine baktığımızda Amazon'a ait bir çok IP adres kaydı görmekteyiz, bu IP'lerden herhangi birine addlive.io alan ismiyle gittiğimiz zaman karşımıza önceki uygulamanın geldiğini göreceğiz.
 
