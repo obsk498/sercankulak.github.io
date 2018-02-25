@@ -10,6 +10,13 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 Jekyll also offers powerful support for code snippets:
 
+* 1
+** 2
+*** 3
+* 4
+* 5
+** 6
+
 # Deneme
 
 ## Deneme 2
