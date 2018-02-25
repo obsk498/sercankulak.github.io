@@ -495,21 +495,16 @@ https://www.censys.io
 https://www.shodan.io 
 http://www.dogpile.com/
 https://www.virustotal.com/#/home/url
+https://github.com/k4ch0w/pwnback
 ~~~
 
 ### Kaynaklar:
 https://digi.ninja/projects/zonetransferme.php
-https://www.shadowserver.org/wiki/pmwiki.php/Services/IP-BGP
-http://www.ihs.com.tr/blog/spf-kaydi-nedir-ne-ise-yarar/
-https://geekflare.com/find-subdomains/
 https://evren.ninja/recon-is-everywhere.html
-https://twitter.com/Alra3ees/status/950172485277900802
 https://www.youtube.com/watch?v=C4ZHAdI8o1w
 https://www.youtube.com/watch?v=1Kg0_53ZEq8
 https://www.youtube.com/watch?v=VtFuAH19Qz0
 https://www.youtube.com/watch?v=e_Gq99CKAys
 http://www.diaryofinjector.com/2014/10/hedef-siteye-nasl-erisilir.html
 http://pastebin.com/raw/cRYvK4jb
-https://github.com/k4ch0w/pwnback
 https://pentestlab.blog/2012/11/13/dns-reconnaissance-dnsrecon/
-https://blog.hosting.com.tr/dns-kayit-tipleri-mx-a-cname-ve-txt-ne-demektir/
