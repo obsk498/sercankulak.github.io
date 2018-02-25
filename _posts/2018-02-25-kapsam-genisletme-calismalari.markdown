@@ -349,15 +349,15 @@ Kelime listesiyle alt alan adı araştırmalarında firma tarafından özelleşt
 
 Akıllı taramalardan kastım firmaya veya firmanın sektörüne özel oluşturulmuş, deneme-bulma tekniği ile alt alan adlarını araştırmaktır. Kullanılacak kelime listeleri; firmanın bulunduğu sektör hakkında bilgi toplamak, firmaya ait alan adları, çalışmalar sırasında firmada özelleştirilmiş bir alan adı elde edildiyse bu alan adı mantığına bakıp yeni olasılıkları takip etmek, firmanın web sitesinde bulunan kelimeler ve yine sektöründe bulunan kelimeleri toplayarak elde edilebilir. 
 
-Bilgi toplama tekniklerinin dışında bilgiye erişme teknikleri de bulunmaktadır. Bunlardan en bilindiği web sitenin eski bir tarihteki sürümüne ulaşıp araştırmaktır. Web sitedeki kelimeler/erişim noktaları/dosya isimleri zamanla değiştirilebilir, değiştirilen kelimeleri takip etmek için https://web.archive.org gibi web sitelerini kullanabilir ve kelime dağarcığını geliştirme çalışmalarında bu yöntemle de ilerleyebilirsiniz.
+Bilgi toplama tekniklerinin dışında bilgiye erişme teknikleri de bulunmaktadır. Bunlardan en bilindiği web sitenin eski bir tarihteki sürümüne ulaşıp araştırmaktır. Web sitedeki kelimeler/erişim noktaları/dosya isimleri zamanla değiştirilebilir, değiştirilen kelimeleri takip etmek için https://web.archive.org gibi web sitelerini kullanabilir ve kelimeleri geliştirme çalışmalarında bu yöntemle ilerleyebilirsiniz.
 
-#### Kelime Listesi Oluşturma
+#### Kelime Listesi Oluşturma
 Ufak bir google araştırması ile bu sektöre özel hazırlanmış kelime listelerine ulaşabilirsiniz. Ayrıca web sitelerin içerisinde bulunan kelimeler işimize yarayacaklar o yüzden web sitelerin içindeki kelimeleri ayıklamak ve araştırmalar için kenara atmamız ileri çalışmalar için bizim yararımıza olacak. Bu işlemleri otomatik hale getirmek için kullandığım 2 araç var: 
 
-* CeWL ile web sitesi içerisindeki kelimeleri toplamak.
+- CeWL ile web sitesi içerisindeki kelimeleri toplamak.
 CeWL uygulaması belirtilen web site içerisindeki kelimeleri toplamakta ve isteğe göre dosyaya kayıt etmektedir. Genelde parola saldırıları için kullanılıyor ama ben bu yöntem için de kullanmanızı öneririm. [https://tools.kali.org/password-attacks/cewl]
 
-* Web sitesinde pasif olarak gezinirken arkada çalışan bir uygulama ile kelimeleri takip etmek.
+- Web sitesinde pasif olarak gezinirken arkada çalışan bir uygulama ile kelimeleri takip etmek.
 Bir diğeri ise siz web site üzerinde keşif çalışmalarınızı gerçekleştirirken kelime listesini kendi başına oluşturan bir eklenti oluyor. BurpSuite proxy uygulamasında böyle bir eklenti bulunuyor, siz pasif olarak sitede gezinirken aldığınız HTTP cevaplarını kurcalayıp içerisinden kelimeleri ayıklıyor. Web site üzerindeki gizli dizinleri bulmak için tercih ediliyor ama bu yöntem için de kullanılabileceğini düşünüyorum, yani 2 yöntem için de işinize yarayacaktır. Eklentiler: BurpSmartBuster, Site Map Extractor
 
 Firmanın faaliyet gösterdiği sektörün finans olduğunu varsayalım. Finans ile ilgili bütün kelimeleri kenarda tutmamız araştırmalar açısından iyi bir yaklaşım olur. Önceden finans sektöründe bir çalışma gerçekleştirmişseniz veya ileride gerçekleştirecekseniz bulduğunuz alan adlarını bir kenarda tutmanızı tavsiye ederim, ileri çalışmalarda işinize yarayabilir. 
