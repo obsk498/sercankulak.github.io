@@ -18,7 +18,25 @@ Jekyll also offers powerful support for code snippets:
 
 # Deneme
 
+~~~~~~~~~~~~~
+$dig any intel.com
+Alanadı: intel.com (13.91.95.74)
+Alanadı sahibi: Microsoft Corporation
+ISS(ISP): Microsoft Corporation
+IP aralığı: 13.64.0.0/11 - ASN: 8075
+~~~~~~~~~~~~~
+
 ## Deneme 2
+
+
+~~~
+$dig any intel.com
+Alanadı: intel.com (13.91.95.74)
+Alanadı sahibi: Microsoft Corporation
+ISS(ISP): Microsoft Corporation
+IP aralığı: 13.64.0.0/11 - ASN: 8075
+~~~
+{: .language-bash}
 
 ### Deneme 3
 
