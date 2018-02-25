@@ -430,7 +430,7 @@ Google'ın sağladığı servisin ise şöyle bir ekranı var:
 
 ![sertifika-sorgulama-google](../eg/google-sertifika-sorgulama.png)
 
-Alttaki seçenekleri mutlaka işaretlemeliyiz. İlk seçenek olan `Include certificates that have expired` süresi bitmiş sertifikaları da bul ikinci seçenek `Include subdomains ise alt alan adlarını da dahil et anlamına geliyor.
+Alttaki seçenekleri mutlaka işaretlemeliyiz. İlk seçenek olan `Include certificates that have expired` süresi bitmiş sertifikaları da bul ikinci seçenek `Include subdomains` ise alt alan adlarını da dahil et anlamına geliyor.
 
 ### E-Posta Başlıklarındaki Alt Alan Adları
 MX kayıtlarının yanlış yönlendirildiği durumlarda MX sorgularında kurumun spam sunucusunu görebiliriz. Bu durumlarda kurum e-posta adresinden size iletilen e-postanın başlık bilgilerine bakarak e-posta sunucusunun alan adını öğrenebilirsiniz. E-posta başlıklarında `Received` kelimesini aratarak hedef kurumun MX sunucusunun alan adı bilgisini elde edebilirsiniz.
@@ -457,7 +457,9 @@ http://moonsearch.com/analytics/
 
 Ayrıca kurumlar Facebook, Twitter gibi paylaşım sayfalarını yine web sitelerinin etiketlerine eklerler, örneğin intel.com adresinde fb:admins olarak eklenen değeri Google ile arattığımızda karşımıza aynı değeri paylaşan farklı web siteleri çıkmaktadır.
 
-<meta property="fb:admins" content="267985180046218"/>
+~~~
+<meta property="fb:admins" content="267985180046218"/
+~~~
 
 ![fb-admins-google](../eg/intel-fb-admins.png)
 
@@ -486,8 +488,8 @@ Alan adlarının araştırılmasında kullanılan teknikleri dilim döndüğünc
 
 Sevgiler.
 
-~~~
 Yardımcı Çevrimiçi Uygulamalar:
+~~~
 https://punkspider.org 
 https://ivre.rocks 
 https://www.zoomeye.org 
@@ -499,12 +501,12 @@ https://github.com/k4ch0w/pwnback
 ~~~
 
 ### Kaynaklar:
-https://digi.ninja/projects/zonetransferme.php
-https://evren.ninja/recon-is-everywhere.html
-https://www.youtube.com/watch?v=C4ZHAdI8o1w
-https://www.youtube.com/watch?v=1Kg0_53ZEq8
-https://www.youtube.com/watch?v=VtFuAH19Qz0
-https://www.youtube.com/watch?v=e_Gq99CKAys
-http://www.diaryofinjector.com/2014/10/hedef-siteye-nasl-erisilir.html
-http://pastebin.com/raw/cRYvK4jb
-https://pentestlab.blog/2012/11/13/dns-reconnaissance-dnsrecon/
+https://digi.ninja/projects/zonetransferme.php</br>
+https://evren.ninja/recon-is-everywhere.html</br>
+https://www.youtube.com/watch?v=C4ZHAdI8o1w</br>
+https://www.youtube.com/watch?v=1Kg0_53ZEq8</br>
+https://www.youtube.com/watch?v=VtFuAH19Qz0</br>
+https://www.youtube.com/watch?v=e_Gq99CKAys</br>
+http://www.diaryofinjector.com/2014/10/hedef-siteye-nasl-erisilir.html</br>
+http://pastebin.com/raw/cRYvK4jb</br>
+https://pentestlab.blog/2012/11/13/dns-reconnaissance-dnsrecon/</br>
