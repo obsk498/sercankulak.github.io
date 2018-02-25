@@ -183,7 +183,7 @@ Nmap scan report for i.karnehediyesiintel.com (a.b.c.56)
 
 Taramalarımız sonucunda yukarıdaki gibi sonuçlar elde edebiliriz. Bunun yanında her bölümde olduğu gibi bu bölümde de açık kaynaktan araştırma yapmanızı tavsiye ederim biraz dış kaynaklardan veri toplamak iyi bir fikir olabilir. Yukarılarda bir yerlerde bazı sistemlerin sürekli olarak internette taramalar gerçekleştirdiğinden bahsetmiştik. Açık kaynaktan sorgulama yapabileceğimiz bir kaç tane çevrimiçi siteyi buraya bırakıyorum:
 
-https://reverse.report/
+https://reverse.report/<br>
 https://hackertarget.com/reverse-dns-lookup/
 
 Karşılaştırma işlemi için ufak bir araç yazmıştım ama sanırım şu an stabil değil, burada not olarak kalsın;
@@ -488,7 +488,7 @@ Alan adlarının araştırılmasında kullanılan teknikleri dilim döndüğünc
 
 Sevgiler.
 
-Yardımcı Çevrimiçi Uygulamalar:
+### Yardımcı Çevrimiçi Uygulamalar:
 ~~~
 https://punkspider.org 
 https://ivre.rocks 
@@ -501,12 +501,12 @@ https://github.com/k4ch0w/pwnback
 ~~~
 
 ### Kaynaklar:
-<p>https://digi.ninja/projects/zonetransferme.php</p>
-<p>https://evren.ninja/recon-is-everywhere.html</p>
-<p>https://www.youtube.com/watch?v=C4ZHAdI8o1w</p>
+https://digi.ninja/projects/zonetransferme.php<br>
+https://evren.ninja/recon-is-everywhere.html<br>
+https://www.youtube.com/watch?v=C4ZHAdI8o1w<br>
 https://www.youtube.com/watch?v=1Kg0_53ZEq8<br>
-https://www.youtube.com/watch?v=VtFuAH19Qz0</br>
-https://www.youtube.com/watch?v=e_Gq99CKAys</br>
-http://www.diaryofinjector.com/2014/10/hedef-siteye-nasl-erisilir.html</br>
-http://pastebin.com/raw/cRYvK4jb</br>
-https://pentestlab.blog/2012/11/13/dns-reconnaissance-dnsrecon/</br>
+https://www.youtube.com/watch?v=VtFuAH19Qz0<br>
+https://www.youtube.com/watch?v=e_Gq99CKAys<br>
+http://www.diaryofinjector.com/2014/10/hedef-siteye-nasl-erisilir.html<br>
+http://pastebin.com/raw/cRYvK4jb<br>
+https://pentestlab.blog/2012/11/13/dns-reconnaissance-dnsrecon/<br>
