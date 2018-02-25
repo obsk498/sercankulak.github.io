@@ -502,9 +502,9 @@ https://github.com/k4ch0w/pwnback
 
 ### Kaynaklar:
 <p>https://digi.ninja/projects/zonetransferme.php</p>
-https://evren.ninja/recon-is-everywhere.html</br>
-https://www.youtube.com/watch?v=C4ZHAdI8o1w</br>
-https://www.youtube.com/watch?v=1Kg0_53ZEq8</br>
+<p>https://evren.ninja/recon-is-everywhere.html</p>
+<p>https://www.youtube.com/watch?v=C4ZHAdI8o1w</p>
+https://www.youtube.com/watch?v=1Kg0_53ZEq8<br>
 https://www.youtube.com/watch?v=VtFuAH19Qz0</br>
 https://www.youtube.com/watch?v=e_Gq99CKAys</br>
 http://www.diaryofinjector.com/2014/10/hedef-siteye-nasl-erisilir.html</br>
