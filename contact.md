@@ -1,7 +1,7 @@
 ---
 layout: page
 title: iletişim
-permalink: /munasebet/
+permalink: /iletisim/
 ---
 
 sercankulak@[rusepostasunucusu].com
