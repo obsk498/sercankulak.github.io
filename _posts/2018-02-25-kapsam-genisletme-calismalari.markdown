@@ -214,11 +214,11 @@ Bu bölümde yararlı olması açısından `fierce` ve `dnsrecon` araçlarını 
 #### DNS Kayıtlarının Sorgulanması
 DNS kayıtları basit sorgular ve açık kaynak kullanılarak toplanabilir. Bu bölümde hangi DNS kaydında nasıl bir veriye ulaşabileceğimize dair bilgi vermeye çalışacağım. Alan adını kullanarak bilgi alabileceğimiz DNS kayıtları aşağıdaki listede bulunmaktadır.
 
-<b>PTR:</b> Hedef alt ağ(subnet) kapsamındaki alt alan adları öğrenebilirsiniz.
-<b>MX:</b> Firmanın kullandığı e-posta sunucularını listeler.
-<b>CNAME:</b> Sorgulama yaptığımız adrese bağlı CNAME kaydı varsa alan adı veya alt alan adı kaydını öğrenebilirsiniz.
-<b>TXT:</b> SPF kayıtlarını bu sorguda görebiliriz. SPF kayıtları ise bize firmanın e-posta sunucuları ile iletişim kurmaya izinli olan e-posta sunucularını gösterir.
-<b>SOA:</b> Bu kayıt ile tercih edilen DNS sunucu bilgisini, alan adı yöneticisinin e-posta adresini elde edebilirsiniz.
+<b>PTR:</b> Hedef alt ağ(subnet) kapsamındaki alt alan adları öğrenebilirsiniz.<br>
+<b>MX:</b> Firmanın kullandığı e-posta sunucularını listeler.<br>
+<b>CNAME:</b> Sorgulama yaptığımız adrese bağlı CNAME kaydı varsa alan adı veya alt alan adı kaydını öğrenebilirsiniz.<br>
+<b>TXT:</b> SPF kayıtlarını bu sorguda görebiliriz. SPF kayıtları ise bize firmanın e-posta sunucuları ile iletişim kurmaya izinli olan e-posta sunucularını gösterir.<br>
+<b>SOA:</b> Bu kayıt ile tercih edilen DNS sunucu bilgisini, alan adı yöneticisinin e-posta adresini elde edebilirsiniz.<br>
 <b>SRV:</b> Firmanın DNS'e tanıttığı servislerini kapsar. VoIP servisleri keşfedilebilir.
 
 Bu sorguların hepsi `dig`, `nslookup` gibi uygulamalar ile yapılabilmektedir. Aşağıda örnek bir dig sorgusu bulunmaktadır.
