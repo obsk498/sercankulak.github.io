@@ -16,7 +16,7 @@ Jekyll also offers powerful support for code snippets:
 
 [link](http://sercankulak.com)
 
-![resim](../eg/freemind-intel.png)!
+![resim](../eg/freemind-intel.png)
 # Deneme
 
 ~~~~~~~~~~~~~
@@ -31,11 +31,20 @@ IP aralığı: 13.64.0.0/11 - ASN: 8075
 
 
 ~~~
-$dig any intel.com
-Alanadı: intel.com (13.91.95.74)
-Alanadı sahibi: Microsoft Corporation
-ISS(ISP): Microsoft Corporation
-IP aralığı: 13.64.0.0/11 - ASN: 8075
+#./dig.sh liste.txt kapsam.txt
+#!/bin/sh
+for IP in `cat $1`
+do
+	SATIR = `dig $1 |grep "ANSWER SECTION" -A1|grep "IN"`
+	for KAPSAMIP in `cat $2`
+	do
+		KAPSAM = `echo $KAPSAMIP | cut -d'/' -f2`
+		if [ KAPSAM -eq 24 ]; then
+			if [ `echo $KAPSAM | cut -d'.' -f1,2,3` -eq `echo $SATIR | awk '{print $5}' | cut -d'.' -f1,2,3` ]; then
+				echo "`echo $SATIR | awk '{print $5,\"\\t\",$1}'` -> $KAPSAM"
+		else [ KAPSAM -eq 23 ]; then
+			if [ `echo $KAPSAM | cut -d'.' -f1,2` -eq `echo $SATIR | awk '{print $5}' | cut -d'.' -f1,2` ]; then
+				echo "`echo $SATIR | awk '{print $5,\"\\t\",$1}'` -> $KAPSAM"
 ~~~
 {: .language-bash}
 
