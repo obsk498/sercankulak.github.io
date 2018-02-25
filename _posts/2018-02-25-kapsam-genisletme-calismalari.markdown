@@ -8,7 +8,7 @@ Selamlar,
 
 İnsan bir şeyle uğraştığında her olaya o anki uğraştığı konunun penceresinden yaklaşıyor. Bende bir zamanlar sadece kapsam genişletme konusuna odaklandığım için hep bu pencereden yaklaşıyordum. Binlerce lira harcayıp sunucular alınmış, IP adresleri kiralanmış, alan adları alınmış koskoca bir orman var ortada sadece 1 metre gidip bir kaç ağaca çıkıp/çıkamayıp geri dönmek içime sinmiyor. Koskoca ormanı iyice bir didik didik etmek ve tepesinde muz olan ağaca çıkmak gerekli, bunu da belli bir hizaya göre yapmak lazım tabii kaybolmamak için haritalandırma yapmak iyidir. Yani en azından ben böyle düşünüyorum. 
 
-Haritalandırma yaparken temeli atmak önemlidir. Kuruma ait alt alan adlarını elde ettik tamam ama bunlar hangi IP adresine işaretlenmiş? IP adresleri hedef şirkete mi ait? Kim adına kiralanmış? Nereden kiralanmış? IP adreslerinde başka hangi alan adları ve alt alan adları var? Bu doğrultuda verileri karıştırmadan tutmak zor olabiliyor bu yüzden haritalandırma işleminde [freemind.sourceforge.net]FreeMind adındaki uygulamayı kullanıyorum işime yarıyor.
+Haritalandırma yaparken temeli atmak önemlidir. Kuruma ait alt alan adlarını elde ettik tamam ama bunlar hangi IP adresine işaretlenmiş? IP adresleri hedef şirkete mi ait? Kim adına kiralanmış? Nereden kiralanmış? IP adreslerinde başka hangi alan adları ve alt alan adları var? Bu doğrultuda verileri karıştırmadan tutmak zor olabiliyor bu yüzden haritalandırma işleminde [freemind.sourceforge.net](FreeMind) adındaki uygulamayı kullanıyorum işime yarıyor.
 
 Bu yazıda kısıtlı bilgiye sahip olduğumuz(blackbox) denetimlerde alan adı kapsam genişletme yöntemleri anlatılacaktır. Bölümler kısa kısa tutulup fazla konu yazmaya çalıştım, umarım yararlı olur. 
 
