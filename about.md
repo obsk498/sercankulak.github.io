@@ -4,6 +4,6 @@ title: Kim
 permalink: /kim/
 ---
 
- o
-/|\
-/ \
+ o<br>
+/|\<br>
+/ \<br>
